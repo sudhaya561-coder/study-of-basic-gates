@@ -92,7 +92,7 @@ endmodule
 ![Exp1](https://github.com/user-attachments/assets/a475b1fc-6f6c-4df9-b933-000cd037bbab)
 
 
-
 **Result:**
+Thus the basic logic gates are studied and the truth tables are verified.
 
 
